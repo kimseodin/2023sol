@@ -1,9 +1,230 @@
-# Preface {.unnumbered}
+## Lesson 1: The Divided Mind
 
-This is a Quarto book.
+https://learn.constructivedialogue.org
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+## 의견 불일치 경험 Why can't we talk?
 
-```{r}
-1 + 1
-```
+-   발표 시 대본이 필요하다고 생각하는데 그렇지 않은 사람과 소통이 불가했던 경험.
+
+의견불일치 때문에 답답한 점은 다양한 이유가 있지만, 우리가 생각하지 못하는 이유가 하나 있음.
+
+## 원시의 뇌 Our Ancient Brains
+
+우리는 첨단 사회에 살고 있음.그러나 우리의 구석기 적 뇌는 업데이트가 안됐음.
+
+## 정신적 지름길 Mental Shortcuts
+
+뇌는 작은 집단에서 최적화 되어있는데, 현실에서 어떤 결정을 할 때 똑같은 실수를 반복하곤 한다.
+
+## 우리의 분열된 마음 Our Divided Minds
+
+우리의 뇌는 자동과 통제가 있다. 종종 두가지가 처리 방식이 다르기 때문에 부딪친다. 자동처리장치는 감정과 직관에 대해 처리하고, 통제는 기술적이고 의식적인 것을 처리한다. ![](images/%EC%BA%A1%EC%B2%98.JPG){width="343"}
+
+## 이해했는지 확인 Understanding Check
+
+자동화 선택지 - 누군가 웃긴 이야기를 했을 때 웃는 것 - 파티에서 친구를 인지하는 것 - 소셜 미디어 게시글에 좋아요를 누르는 것
+
+## 좋은 교류? A Good Deal?
+
+연쇄 살인마가 탔던 차를 좋은 조건에 판매한다면 구입할 것인가? - 안한다. 연쇄 살인마와 같은 차라면 안좋은 일이 생길 것 같다.
+
+## 기수와 코끼리 The Rider and Elephant
+
+코끼리가 자동화, 기수는 통제화 기수는 코끼리를 조절할 수 있지만, 대부분 코끼리의 걸음에 따른다. - 해야되는 것을 아는데 반응하지 않는 우리
+
+## 직관이 먼저, 추론이 두 번째 Intuitions First, Reasoning Second
+
+중심 문장 \[This happens so quickly and seamlessly that we don't even realize it. We're left with the illusion that we've arrived at a decision through careful deliberation.\]
+
+## 우리는 어떻게 생각해야 하는가 How We Think
+
+우리의 '기수'는 판사 변호사 중 '변호사'의 역할을 함.
+
+## 직관 Autopilot
+
+우리의 코끼리는 가끔 너무 빠르게 우리를 헷갈리게 함
+
+## 비난할 것인가, 묵인할 것인가? Condemn or Condone?
+
+내가 존경하고 좋아하는 유명인을 누군가 험담한다면? - 믿지 않는다. 별 생각 없는 유명인을 누군가 험담한다면? - 그럴 수 있구나 싶을 듯
+
+## 인지 편향, 확증 편향 Cognitive Biases, Confirmation Bias
+
+우리가 갖고 있는 신념과 일치, 대치되는 신념은 거부
+
+![](images/%EC%BA%A1%EC%B2%982.JPG)
+
+## 누구의 사실인가? Whose Facts?
+
+우리가 새로운 정보를 얻었을 때 어떠한 사실로 우리가 구별하는가? 우리의 의식으로는 모르고 직관적으로 코끼리가 처리한다.
+
+## 인생 팁: 입장바꿔 생각하기 Life Hacks: swapping places 
+Step 1. 코끼리가 언제 책임을 맡는지 확인
+Step 2. 다른 관점에서 생각해보기
+ 
+## 연습 Practice
+확증 편향에 해당하는 것
+- Everything about the argument seems to confirm your way of looking at the world.
+- You’re thinking the essay offers a simple solution to a complex problem that everyone should agree to.
+
+## Lesson 1 Recap
+1. 우리 뇌는 두가지 시스템을 갖고 있다.
+2. 우리의 추론은 종종 직관보다 다른 방향을 따른다.
+3. 우리는 일반적인 오류를 범하고 알아채지 못한다.
+4. 해석하는데 영향을 주고 의견 불일치를 가져옴
+
+-
+
+## Lesson 2: Us and Them
+정치, 도덕적 신념은 어디서 오는가?
+
+## Let's Recap
+직관체계, 추론체계가 있음
+직관체계: 빠르고, 무의식적, 자동적, 감정적
+추론체계: 느리고, 의식적, 노력한, 타당한(논리적인)
+
+## Review
+어떤 정보를 알았을 때, 이미 직관이 알고있음
+> 우리의 직관이 추론을 이끈다
+
+## Mind Reading
+정치적 분열에 추론과 직관은 어떻게 작용하는지
+
+## What Do Republicans Believe?
+- 공화당의 이슈
+1. 아직도 있는 성 차별
+2. 기후변화 문제
+3. 무슬림 문제
+4. 인종차별 문제
+5. 총기소지 문제
+
+## The Perception Gap
+실제 당사자의 신념과 내가 생각하는 신념은 다름
+사이에 갭이 있음
+- 잘못된 전제가 존재
+
+## What Creates the Perception Gap?
+Ready to co
+1. 같은 집단에서 같은 의견을 공유하면서 의견을 강화시킴.
+2. 미묘한 관점보다는 극단적인 관점이 더 크게 작용함(자극적, 확신한 듯 한 모습).
+
+## The Implications
+대부분은 극단적인 사실에 지쳐있음.
+
+## Where Do Our Differences Come From?
+도덕기반이론
+: 여섯가지의 맛을 느끼는 혀와 같음
+- 돌봄, 공평함, 자유, 충성, 권위, 순결
+
+## The Origins of Taste
+- 맛을 느끼는 체계는 같으나, 문화, 배경, 삶의 경험에 따라 각각 맛을 느끼는 정도가 다름, 차이가 있음.
+
+## The Six "Taste Buds" of Morality
+여섯가지는 다 있지만 입맛과 같이 개인의 따라 다 다름.
+
+## Our Moral Intuitions
+직관은 코끼리, 직관이 걷어낸 것을 추론 과정에서 사용한다는 것을 알려줌.
+세상을 있는 그대로 이해하는 것이 아니라 도덕직관을 통해 걸러내며 이해함.
+= 어떤 사실에 알지 못하면서 어떤 쟁점에 대해 강하게 느낌. 
+ex) 하마스가 최근 학살한 사실에 대해, 하마스에 대해 잘 모르면서도 학살한 것에 대해 큰 거부감을 느낌. (약자에 대한 돌봄)
+
+## Uncovering the Moral Foundations
+[돌봄]
+> 다른 사람을 돌봐주는 것, 해를 끼리는 것을 막는 것
+- 공감, 친절함 
+
+[공평함]
+> 공평함을 선호하고, 속이는 것을 싫어함.
+- 정의, 정직, 공평, 상호성
+
+[자유]
+> 자율성에 대한 욕구
+- 결정을 내릴 자유
+
+[충성]
+> 내집단 충성
+
+[권위]
+> 합법적인 것에 대한 전통, 법, 존중
+
+[순결]
+> 순결하고 신성한 것을 오염시키는 것은 도덕적으로 그르다.
+
+## Decoding Your Own Foundations
+- 부의 불평등과 승진은 공평함과 연결
+- 건강 비용은 돌봄과 공평함에 해당
+- 총기소지는 총기 사고에 따르면 돌봄, 소지할 자유는 자유에 해당함
+> 같은 쟁점이라도 상황에 따라 다르게 볼 수 있음
+
+## Belief Updating, Pt. 1
+
+우리는 사고 형식에서 밝고 어둡게 하는 스위치가 있는 것 뿐 아니라
+밝기를 조절 할 수 있는 것이 있을거임
+
+## Changing Your Mind
+마음을 열어놓는 것이 중요함
+강하게 무엇을 믿고있더라도 그것이 틀릴 수 있다는 것에 대해 알고있어야하고
+
+## Explorer Mindset
+탐험가는 열린 마음을 갖고있다
+
+## Setting the Tone
+어떤 문제에 똑같이 싸우지 말고 넓은 마음을 가져라
+
+## Asking Questions
+호기심의 마음으로 접근하고 질문해라
+
+
+## Good and Bad Questions
+공격하는 식(너는 잘 몰라~)으로 얘기하지 마라
+
+## Constructive Questions
+1. 진정으로 답을 알고 싶은 마음을 담아 질문해라
+2. 열린 마음으로 열린 질문을 해라
+3. 극단적인 질문 하지 말기
+4. 신념에 대한 개인적인 이야기를 공유하도록 해라
+5. 열린 마음으로 얘기를 하더라도 톤도 중요한 부분을 차지한다
+
+## Life Hacks
+Why is this issue important to you?
+Can you tell me more?
+Can you share more about what you mean when you say
+Why do you think that is?
+Can you share something about your experience that may have led you to believe ?
+Is there anything about where you feel conflicted or pulled in two different directions?
+What is at stake for you or someone you know about this issue?
+Why do you think you care so deeply about this issue?
+Have you always felt that way?
+
+## Lesson 3 Recap
+1. 마음가짐은 어려운 대화의 형성에 중요하다.
+2. 승리를 버리는 것은 대화가 나누기보다는 연결되기 위한 중요한 단계
+3. 탐험가적인 마음가짐을 가져라
+4. 지적이고 겸손한 사람은 더 나은 삶을 살아갈 수 있다
+5. 상대방의 마음을 알고싶을 때에는 진정한 호기심을 갖고 말해라
+
+## Your Takeaways
+What's one thing you want to remember from this lesson?
+- 신념에 대한 개인적인 이야기를 공유하도록 해라
+
+## What's one way you might use this takeaway in your life?
+- 어떤것에 대한 참 거짓을 따지기 전에 어떻게 그런 생각을 하게 되었는지를 먼저
+알게 된다면 나 스스로를 설득 하거나 상대를 설득하는 데에 도움이 될 것이다.
+
+
+## Lesson 4: Storytelling
+우리는 인류역사를 이야기를 통해 전해받고 여러가지 핵심적인 요소를 차지함
+
+## The Power of Stories
+이야기는 마음을 움직이게함
+이야기는 매우 강력한 도구
+고통스러운 의견 충돌 대신 이용할 수 있는 강력한 것
+
+## What Resonates?
+1. AJ. 인간이기 때문에 사회적으로 보호 받아야한다
+2. Akram.
+3. Karen. 공동체적으로만 해결하면 되는 것이다.
+4. Ted
+
+## The Anatomy of a Story
+어떤 불일치 쟁점에 대해 목적이 되는 서로의 이해와 연결이 중요
