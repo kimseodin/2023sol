@@ -1,0 +1,660 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "seodinQbook",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html#의견-불일치-경험-why-cant-we-talk",
+    "href": "summary.html#의견-불일치-경험-why-cant-we-talk",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.1 의견 불일치 경험 Why can’t we talk?",
+    "text": "2.1 의견 불일치 경험 Why can’t we talk?\n\n발표 시 대본이 필요하다고 생각하는데 그렇지 않은 사람과 소통이 불가했던 경험.\n\n의견불일치 때문에 답답한 점은 다양한 이유가 있지만, 우리가 생각하지 못하는 이유가 하나 있음."
+  },
+  {
+    "objectID": "summary.html#원시의-뇌-our-ancient-brains",
+    "href": "summary.html#원시의-뇌-our-ancient-brains",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.2 원시의 뇌 Our Ancient Brains",
+    "text": "2.2 원시의 뇌 Our Ancient Brains\n우리는 첨단 사회에 살고 있음.그러나 우리의 구석기 적 뇌는 업데이트가 안됐음."
+  },
+  {
+    "objectID": "summary.html#정신적-지름길-mental-shortcuts",
+    "href": "summary.html#정신적-지름길-mental-shortcuts",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.3 정신적 지름길 Mental Shortcuts",
+    "text": "2.3 정신적 지름길 Mental Shortcuts\n뇌는 작은 집단에서 최적화 되어있는데, 현실에서 어떤 결정을 할 때 똑같은 실수를 반복하곤 한다."
+  },
+  {
+    "objectID": "summary.html#우리의-분열된-마음-our-divided-minds",
+    "href": "summary.html#우리의-분열된-마음-our-divided-minds",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.4 우리의 분열된 마음 Our Divided Minds",
+    "text": "2.4 우리의 분열된 마음 Our Divided Minds\n우리의 뇌는 자동과 통제가 있다. 종종 두가지가 처리 방식이 다르기 때문에 부딪친다. 자동처리장치는 감정과 직관에 대해 처리하고, 통제는 기술적이고 의식적인 것을 처리한다."
+  },
+  {
+    "objectID": "summary.html#이해했는지-확인-understanding-check",
+    "href": "summary.html#이해했는지-확인-understanding-check",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.5 이해했는지 확인 Understanding Check",
+    "text": "2.5 이해했는지 확인 Understanding Check\n자동화 선택지 - 누군가 웃긴 이야기를 했을 때 웃는 것 - 파티에서 친구를 인지하는 것 - 소셜 미디어 게시글에 좋아요를 누르는 것"
+  },
+  {
+    "objectID": "summary.html#좋은-교류-a-good-deal",
+    "href": "summary.html#좋은-교류-a-good-deal",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.6 좋은 교류? A Good Deal?",
+    "text": "2.6 좋은 교류? A Good Deal?\n연쇄 살인마가 탔던 차를 좋은 조건에 판매한다면 구입할 것인가? - 안한다. 연쇄 살인마와 같은 차라면 안좋은 일이 생길 것 같다."
+  },
+  {
+    "objectID": "summary.html#기수와-코끼리-the-rider-and-elephant",
+    "href": "summary.html#기수와-코끼리-the-rider-and-elephant",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.7 기수와 코끼리 The Rider and Elephant",
+    "text": "2.7 기수와 코끼리 The Rider and Elephant\n코끼리가 자동화, 기수는 통제화 기수는 코끼리를 조절할 수 있지만, 대부분 코끼리의 걸음에 따른다. - 해야되는 것을 아는데 반응하지 않는 우리"
+  },
+  {
+    "objectID": "summary.html#직관이-먼저-추론이-두-번째-intuitions-first-reasoning-second",
+    "href": "summary.html#직관이-먼저-추론이-두-번째-intuitions-first-reasoning-second",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.8 직관이 먼저, 추론이 두 번째 Intuitions First, Reasoning Second",
+    "text": "2.8 직관이 먼저, 추론이 두 번째 Intuitions First, Reasoning Second\n중심 문장 [This happens so quickly and seamlessly that we don’t even realize it. We’re left with the illusion that we’ve arrived at a decision through careful deliberation.]"
+  },
+  {
+    "objectID": "summary.html#우리는-어떻게-생각해야-하는가-how-we-think",
+    "href": "summary.html#우리는-어떻게-생각해야-하는가-how-we-think",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.9 우리는 어떻게 생각해야 하는가 How We Think",
+    "text": "2.9 우리는 어떻게 생각해야 하는가 How We Think\n우리의 ’기수’는 판사 변호사 중 ’변호사’의 역할을 함."
+  },
+  {
+    "objectID": "summary.html#직관-autopilot",
+    "href": "summary.html#직관-autopilot",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.10 직관 Autopilot",
+    "text": "2.10 직관 Autopilot\n우리의 코끼리는 가끔 너무 빠르게 우리를 헷갈리게 함"
+  },
+  {
+    "objectID": "summary.html#비난할-것인가-묵인할-것인가-condemn-or-condone",
+    "href": "summary.html#비난할-것인가-묵인할-것인가-condemn-or-condone",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.11 비난할 것인가, 묵인할 것인가? Condemn or Condone?",
+    "text": "2.11 비난할 것인가, 묵인할 것인가? Condemn or Condone?\n내가 존경하고 좋아하는 유명인을 누군가 험담한다면? - 믿지 않는다. 별 생각 없는 유명인을 누군가 험담한다면? - 그럴 수 있구나 싶을 듯"
+  },
+  {
+    "objectID": "summary.html#인지-편향-확증-편향-cognitive-biases-confirmation-bias",
+    "href": "summary.html#인지-편향-확증-편향-cognitive-biases-confirmation-bias",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.12 인지 편향, 확증 편향 Cognitive Biases, Confirmation Bias",
+    "text": "2.12 인지 편향, 확증 편향 Cognitive Biases, Confirmation Bias\n우리가 갖고 있는 신념과 일치, 대치되는 신념은 거부"
+  },
+  {
+    "objectID": "summary.html#누구의-사실인가-whose-facts",
+    "href": "summary.html#누구의-사실인가-whose-facts",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.13 누구의 사실인가? Whose Facts?",
+    "text": "2.13 누구의 사실인가? Whose Facts?\n우리가 새로운 정보를 얻었을 때 어떠한 사실로 우리가 구별하는가? 우리의 의식으로는 모르고 직관적으로 코끼리가 처리한다."
+  },
+  {
+    "objectID": "summary.html#인생-팁-입장바꿔-생각하기-life-hacks-swapping-places",
+    "href": "summary.html#인생-팁-입장바꿔-생각하기-life-hacks-swapping-places",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.14 인생 팁: 입장바꿔 생각하기 Life Hacks: swapping places",
+    "text": "2.14 인생 팁: 입장바꿔 생각하기 Life Hacks: swapping places\nStep 1. 코끼리가 언제 책임을 맡는지 확인 Step 2. 다른 관점에서 생각해보기"
+  },
+  {
+    "objectID": "summary.html#연습-practice",
+    "href": "summary.html#연습-practice",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.15 연습 Practice",
+    "text": "2.15 연습 Practice\n확증 편향에 해당하는 것 - Everything about the argument seems to confirm your way of looking at the world. - You’re thinking the essay offers a simple solution to a complex problem that everyone should agree to."
+  },
+  {
+    "objectID": "summary.html#lesson-1-recap",
+    "href": "summary.html#lesson-1-recap",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.16 Lesson 1 Recap",
+    "text": "2.16 Lesson 1 Recap\n\n우리 뇌는 두가지 시스템을 갖고 있다.\n우리의 추론은 종종 직관보다 다른 방향을 따른다.\n우리는 일반적인 오류를 범하고 알아채지 못한다.\n해석하는데 영향을 주고 의견 불일치를 가져옴"
+  },
+  {
+    "objectID": "summary.html#lesson-2-us-and-them",
+    "href": "summary.html#lesson-2-us-and-them",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.17 Lesson 2: Us and Them",
+    "text": "2.17 Lesson 2: Us and Them\n정치, 도덕적 신념은 어디서 오는가?"
+  },
+  {
+    "objectID": "summary.html#lets-recap",
+    "href": "summary.html#lets-recap",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.18 Let’s Recap",
+    "text": "2.18 Let’s Recap\n직관체계, 추론체계가 있음 직관체계: 빠르고, 무의식적, 자동적, 감정적 추론체계: 느리고, 의식적, 노력한, 타당한(논리적인)"
+  },
+  {
+    "objectID": "summary.html#review",
+    "href": "summary.html#review",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.19 Review",
+    "text": "2.19 Review\n어떤 정보를 알았을 때, 이미 직관이 알고있음 > 우리의 직관이 추론을 이끈다"
+  },
+  {
+    "objectID": "summary.html#mind-reading",
+    "href": "summary.html#mind-reading",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.20 Mind Reading",
+    "text": "2.20 Mind Reading\n정치적 분열에 추론과 직관은 어떻게 작용하는지"
+  },
+  {
+    "objectID": "summary.html#what-do-republicans-believe",
+    "href": "summary.html#what-do-republicans-believe",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.21 What Do Republicans Believe?",
+    "text": "2.21 What Do Republicans Believe?\n\n공화당의 이슈\n\n\n아직도 있는 성 차별\n기후변화 문제\n무슬림 문제\n인종차별 문제\n총기소지 문제"
+  },
+  {
+    "objectID": "summary.html#the-perception-gap",
+    "href": "summary.html#the-perception-gap",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.22 The Perception Gap",
+    "text": "2.22 The Perception Gap\n실제 당사자의 신념과 내가 생각하는 신념은 다름 사이에 갭이 있음 - 잘못된 전제가 존재"
+  },
+  {
+    "objectID": "summary.html#what-creates-the-perception-gap",
+    "href": "summary.html#what-creates-the-perception-gap",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.23 What Creates the Perception Gap?",
+    "text": "2.23 What Creates the Perception Gap?\nReady to co 1. 같은 집단에서 같은 의견을 공유하면서 의견을 강화시킴. 2. 미묘한 관점보다는 극단적인 관점이 더 크게 작용함(자극적, 확신한 듯 한 모습)."
+  },
+  {
+    "objectID": "summary.html#the-implications",
+    "href": "summary.html#the-implications",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.24 The Implications",
+    "text": "2.24 The Implications\n대부분은 극단적인 사실에 지쳐있음."
+  },
+  {
+    "objectID": "summary.html#where-do-our-differences-come-from",
+    "href": "summary.html#where-do-our-differences-come-from",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.25 Where Do Our Differences Come From?",
+    "text": "2.25 Where Do Our Differences Come From?\n\n도덕기반이론\n\n여섯가지의 맛을 느끼는 혀와 같음 - 돌봄, 공평함, 자유, 충성, 권위, 순결"
+  },
+  {
+    "objectID": "summary.html#the-origins-of-taste",
+    "href": "summary.html#the-origins-of-taste",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.26 The Origins of Taste",
+    "text": "2.26 The Origins of Taste\n\n맛을 느끼는 체계는 같으나, 문화, 배경, 삶의 경험에 따라 각각 맛을 느끼는 정도가 다름, 차이가 있음."
+  },
+  {
+    "objectID": "summary.html#the-six-taste-buds-of-morality",
+    "href": "summary.html#the-six-taste-buds-of-morality",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.27 The Six “Taste Buds” of Morality",
+    "text": "2.27 The Six “Taste Buds” of Morality\n여섯가지는 다 있지만 입맛과 같이 개인의 따라 다 다름."
+  },
+  {
+    "objectID": "summary.html#our-moral-intuitions",
+    "href": "summary.html#our-moral-intuitions",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.28 Our Moral Intuitions",
+    "text": "2.28 Our Moral Intuitions\n직관은 코끼리, 직관이 걷어낸 것을 추론 과정에서 사용한다는 것을 알려줌. 세상을 있는 그대로 이해하는 것이 아니라 도덕직관을 통해 걸러내며 이해함. = 어떤 사실에 알지 못하면서 어떤 쟁점에 대해 강하게 느낌. ex) 하마스가 최근 학살한 사실에 대해, 하마스에 대해 잘 모르면서도 학살한 것에 대해 큰 거부감을 느낌. (약자에 대한 돌봄)"
+  },
+  {
+    "objectID": "summary.html#uncovering-the-moral-foundations",
+    "href": "summary.html#uncovering-the-moral-foundations",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.29 Uncovering the Moral Foundations",
+    "text": "2.29 Uncovering the Moral Foundations\n[돌봄] > 다른 사람을 돌봐주는 것, 해를 끼리는 것을 막는 것 - 공감, 친절함\n[공평함] > 공평함을 선호하고, 속이는 것을 싫어함. - 정의, 정직, 공평, 상호성\n[자유] > 자율성에 대한 욕구 - 결정을 내릴 자유\n[충성] > 내집단 충성\n[권위] > 합법적인 것에 대한 전통, 법, 존중\n[순결] > 순결하고 신성한 것을 오염시키는 것은 도덕적으로 그르다."
+  },
+  {
+    "objectID": "summary.html#decoding-your-own-foundations",
+    "href": "summary.html#decoding-your-own-foundations",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.30 Decoding Your Own Foundations",
+    "text": "2.30 Decoding Your Own Foundations\n\n부의 불평등과 승진은 공평함과 연결\n건강 비용은 돌봄과 공평함에 해당\n총기소지는 총기 사고에 따르면 돌봄, 소지할 자유는 자유에 해당함 > 같은 쟁점이라도 상황에 따라 다르게 볼 수 있음"
+  },
+  {
+    "objectID": "summary.html#belief-updating-pt.-1",
+    "href": "summary.html#belief-updating-pt.-1",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.31 Belief Updating, Pt. 1",
+    "text": "2.31 Belief Updating, Pt. 1\n우리는 사고 형식에서 밝고 어둡게 하는 스위치가 있는 것 뿐 아니라 밝기를 조절 할 수 있는 것이 있을거임"
+  },
+  {
+    "objectID": "summary.html#changing-your-mind",
+    "href": "summary.html#changing-your-mind",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.32 Changing Your Mind",
+    "text": "2.32 Changing Your Mind\n마음을 열어놓는 것이 중요함 강하게 무엇을 믿고있더라도 그것이 틀릴 수 있다는 것에 대해 알고있어야하고"
+  },
+  {
+    "objectID": "summary.html#explorer-mindset",
+    "href": "summary.html#explorer-mindset",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.33 Explorer Mindset",
+    "text": "2.33 Explorer Mindset\n탐험가는 열린 마음을 갖고있다"
+  },
+  {
+    "objectID": "summary.html#setting-the-tone",
+    "href": "summary.html#setting-the-tone",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.34 Setting the Tone",
+    "text": "2.34 Setting the Tone\n어떤 문제에 똑같이 싸우지 말고 넓은 마음을 가져라"
+  },
+  {
+    "objectID": "summary.html#asking-questions",
+    "href": "summary.html#asking-questions",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.35 Asking Questions",
+    "text": "2.35 Asking Questions\n호기심의 마음으로 접근하고 질문해라"
+  },
+  {
+    "objectID": "summary.html#good-and-bad-questions",
+    "href": "summary.html#good-and-bad-questions",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.36 Good and Bad Questions",
+    "text": "2.36 Good and Bad Questions\n공격하는 식(너는 잘 몰라~)으로 얘기하지 마라"
+  },
+  {
+    "objectID": "summary.html#constructive-questions",
+    "href": "summary.html#constructive-questions",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.37 Constructive Questions",
+    "text": "2.37 Constructive Questions\n\n진정으로 답을 알고 싶은 마음을 담아 질문해라\n열린 마음으로 열린 질문을 해라\n극단적인 질문 하지 말기\n신념에 대한 개인적인 이야기를 공유하도록 해라\n열린 마음으로 얘기를 하더라도 톤도 중요한 부분을 차지한다"
+  },
+  {
+    "objectID": "summary.html#life-hacks",
+    "href": "summary.html#life-hacks",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.38 Life Hacks",
+    "text": "2.38 Life Hacks\nWhy is this issue important to you? Can you tell me more? Can you share more about what you mean when you say Why do you think that is? Can you share something about your experience that may have led you to believe ? Is there anything about where you feel conflicted or pulled in two different directions? What is at stake for you or someone you know about this issue? Why do you think you care so deeply about this issue? Have you always felt that way?"
+  },
+  {
+    "objectID": "summary.html#lesson-3-recap",
+    "href": "summary.html#lesson-3-recap",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.39 Lesson 3 Recap",
+    "text": "2.39 Lesson 3 Recap\n\n마음가짐은 어려운 대화의 형성에 중요하다.\n승리를 버리는 것은 대화가 나누기보다는 연결되기 위한 중요한 단계\n탐험가적인 마음가짐을 가져라\n지적이고 겸손한 사람은 더 나은 삶을 살아갈 수 있다\n상대방의 마음을 알고싶을 때에는 진정한 호기심을 갖고 말해라"
+  },
+  {
+    "objectID": "summary.html#your-takeaways",
+    "href": "summary.html#your-takeaways",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.40 Your Takeaways",
+    "text": "2.40 Your Takeaways\nWhat’s one thing you want to remember from this lesson? - 신념에 대한 개인적인 이야기를 공유하도록 해라"
+  },
+  {
+    "objectID": "summary.html#whats-one-way-you-might-use-this-takeaway-in-your-life",
+    "href": "summary.html#whats-one-way-you-might-use-this-takeaway-in-your-life",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.41 What’s one way you might use this takeaway in your life?",
+    "text": "2.41 What’s one way you might use this takeaway in your life?\n\n어떤것에 대한 참 거짓을 따지기 전에 어떻게 그런 생각을 하게 되었는지를 먼저 알게 된다면 나 스스로를 설득 하거나 상대를 설득하는 데에 도움이 될 것이다."
+  },
+  {
+    "objectID": "summary.html#lesson-4-storytelling",
+    "href": "summary.html#lesson-4-storytelling",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.42 Lesson 4: Storytelling",
+    "text": "2.42 Lesson 4: Storytelling\n우리는 인류역사를 이야기를 통해 전해받고 여러가지 핵심적인 요소를 차지함"
+  },
+  {
+    "objectID": "summary.html#the-power-of-stories",
+    "href": "summary.html#the-power-of-stories",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.43 The Power of Stories",
+    "text": "2.43 The Power of Stories\n이야기는 마음을 움직이게함 이야기는 매우 강력한 도구 고통스러운 의견 충돌 대신 이용할 수 있는 강력한 것"
+  },
+  {
+    "objectID": "summary.html#what-resonates",
+    "href": "summary.html#what-resonates",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.44 What Resonates?",
+    "text": "2.44 What Resonates?\n\nAJ. 인간이기 때문에 사회적으로 보호 받아야한다\nAkram.\nKaren. 공동체적으로만 해결하면 되는 것이다.\nTed"
+  },
+  {
+    "objectID": "summary.html#the-anatomy-of-a-story",
+    "href": "summary.html#the-anatomy-of-a-story",
+    "title": "2  Lesson 1: The Divided Mind",
+    "section": "2.45 The Anatomy of a Story",
+    "text": "2.45 The Anatomy of a Story\n어떤 불일치 쟁점에 대해 목적이 되는 서로의 이해와 연결이 중요"
+  },
+  {
+    "objectID": "references.html#의견-불일치-경험-why-cant-we-talk",
+    "href": "references.html#의견-불일치-경험-why-cant-we-talk",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.1 의견 불일치 경험 Why can’t we talk?",
+    "text": "3.1 의견 불일치 경험 Why can’t we talk?\n\n발표 시 대본이 필요하다고 생각하는데 그렇지 않은 사람과 소통이 불가했던 경험.\n\n의견불일치 때문에 답답한 점은 다양한 이유가 있지만, 우리가 생각하지 못하는 이유가 하나 있음."
+  },
+  {
+    "objectID": "references.html#원시의-뇌-our-ancient-brains",
+    "href": "references.html#원시의-뇌-our-ancient-brains",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.2 원시의 뇌 Our Ancient Brains",
+    "text": "3.2 원시의 뇌 Our Ancient Brains\n우리는 첨단 사회에 살고 있음.그러나 우리의 구석기 적 뇌는 업데이트가 안됐음."
+  },
+  {
+    "objectID": "references.html#정신적-지름길-mental-shortcuts",
+    "href": "references.html#정신적-지름길-mental-shortcuts",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.3 정신적 지름길 Mental Shortcuts",
+    "text": "3.3 정신적 지름길 Mental Shortcuts\n뇌는 작은 집단에서 최적화 되어있는데, 현실에서 어떤 결정을 할 때 똑같은 실수를 반복하곤 한다."
+  },
+  {
+    "objectID": "references.html#우리의-분열된-마음-our-divided-minds",
+    "href": "references.html#우리의-분열된-마음-our-divided-minds",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.4 우리의 분열된 마음 Our Divided Minds",
+    "text": "3.4 우리의 분열된 마음 Our Divided Minds\n우리의 뇌는 자동과 통제가 있다. 종종 두가지가 처리 방식이 다르기 때문에 부딪친다. 자동처리장치는 감정과 직관에 대해 처리하고, 통제는 기술적이고 의식적인 것을 처리한다."
+  },
+  {
+    "objectID": "references.html#이해했는지-확인-understanding-check",
+    "href": "references.html#이해했는지-확인-understanding-check",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.5 이해했는지 확인 Understanding Check",
+    "text": "3.5 이해했는지 확인 Understanding Check\n자동화 선택지 - 누군가 웃긴 이야기를 했을 때 웃는 것 - 파티에서 친구를 인지하는 것 - 소셜 미디어 게시글에 좋아요를 누르는 것"
+  },
+  {
+    "objectID": "references.html#좋은-교류-a-good-deal",
+    "href": "references.html#좋은-교류-a-good-deal",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.6 좋은 교류? A Good Deal?",
+    "text": "3.6 좋은 교류? A Good Deal?\n연쇄 살인마가 탔던 차를 좋은 조건에 판매한다면 구입할 것인가? - 안한다. 연쇄 살인마와 같은 차라면 안좋은 일이 생길 것 같다."
+  },
+  {
+    "objectID": "references.html#기수와-코끼리-the-rider-and-elephant",
+    "href": "references.html#기수와-코끼리-the-rider-and-elephant",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.7 기수와 코끼리 The Rider and Elephant",
+    "text": "3.7 기수와 코끼리 The Rider and Elephant\n코끼리가 자동화, 기수는 통제화 기수는 코끼리를 조절할 수 있지만, 대부분 코끼리의 걸음에 따른다. - 해야되는 것을 아는데 반응하지 않는 우리"
+  },
+  {
+    "objectID": "references.html#직관이-먼저-추론이-두-번째-intuitions-first-reasoning-second",
+    "href": "references.html#직관이-먼저-추론이-두-번째-intuitions-first-reasoning-second",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.8 직관이 먼저, 추론이 두 번째 Intuitions First, Reasoning Second",
+    "text": "3.8 직관이 먼저, 추론이 두 번째 Intuitions First, Reasoning Second\n중심 문장 [This happens so quickly and seamlessly that we don’t even realize it. We’re left with the illusion that we’ve arrived at a decision through careful deliberation.]"
+  },
+  {
+    "objectID": "references.html#우리는-어떻게-생각해야-하는가-how-we-think",
+    "href": "references.html#우리는-어떻게-생각해야-하는가-how-we-think",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.9 우리는 어떻게 생각해야 하는가 How We Think",
+    "text": "3.9 우리는 어떻게 생각해야 하는가 How We Think\n우리의 ’기수’는 판사 변호사 중 ’변호사’의 역할을 함."
+  },
+  {
+    "objectID": "references.html#직관-autopilot",
+    "href": "references.html#직관-autopilot",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.10 직관 Autopilot",
+    "text": "3.10 직관 Autopilot\n우리의 코끼리는 가끔 너무 빠르게 우리를 헷갈리게 함"
+  },
+  {
+    "objectID": "references.html#비난할-것인가-묵인할-것인가-condemn-or-condone",
+    "href": "references.html#비난할-것인가-묵인할-것인가-condemn-or-condone",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.11 비난할 것인가, 묵인할 것인가? Condemn or Condone?",
+    "text": "3.11 비난할 것인가, 묵인할 것인가? Condemn or Condone?\n내가 존경하고 좋아하는 유명인을 누군가 험담한다면? - 믿지 않는다. 별 생각 없는 유명인을 누군가 험담한다면? - 그럴 수 있구나 싶을 듯"
+  },
+  {
+    "objectID": "references.html#인지-편향-확증-편향-cognitive-biases-confirmation-bias",
+    "href": "references.html#인지-편향-확증-편향-cognitive-biases-confirmation-bias",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.12 인지 편향, 확증 편향 Cognitive Biases, Confirmation Bias",
+    "text": "3.12 인지 편향, 확증 편향 Cognitive Biases, Confirmation Bias\n우리가 갖고 있는 신념과 일치, 대치되는 신념은 거부"
+  },
+  {
+    "objectID": "references.html#누구의-사실인가-whose-facts",
+    "href": "references.html#누구의-사실인가-whose-facts",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.13 누구의 사실인가? Whose Facts?",
+    "text": "3.13 누구의 사실인가? Whose Facts?\n우리가 새로운 정보를 얻었을 때 어떠한 사실로 우리가 구별하는가? 우리의 의식으로는 모르고 직관적으로 코끼리가 처리한다."
+  },
+  {
+    "objectID": "references.html#인생-팁-입장바꿔-생각하기-life-hacks-swapping-places",
+    "href": "references.html#인생-팁-입장바꿔-생각하기-life-hacks-swapping-places",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.14 인생 팁: 입장바꿔 생각하기 Life Hacks: swapping places",
+    "text": "3.14 인생 팁: 입장바꿔 생각하기 Life Hacks: swapping places\nStep 1. 코끼리가 언제 책임을 맡는지 확인 Step 2. 다른 관점에서 생각해보기"
+  },
+  {
+    "objectID": "references.html#연습-practice",
+    "href": "references.html#연습-practice",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.15 연습 Practice",
+    "text": "3.15 연습 Practice\n확증 편향에 해당하는 것 - Everything about the argument seems to confirm your way of looking at the world. - You’re thinking the essay offers a simple solution to a complex problem that everyone should agree to."
+  },
+  {
+    "objectID": "references.html#lesson-1-recap",
+    "href": "references.html#lesson-1-recap",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.16 Lesson 1 Recap",
+    "text": "3.16 Lesson 1 Recap\n\n우리 뇌는 두가지 시스템을 갖고 있다.\n우리의 추론은 종종 직관보다 다른 방향을 따른다.\n우리는 일반적인 오류를 범하고 알아채지 못한다.\n해석하는데 영향을 주고 의견 불일치를 가져옴"
+  },
+  {
+    "objectID": "references.html#lesson-2-us-and-them",
+    "href": "references.html#lesson-2-us-and-them",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.17 Lesson 2: Us and Them",
+    "text": "3.17 Lesson 2: Us and Them\n정치, 도덕적 신념은 어디서 오는가?"
+  },
+  {
+    "objectID": "references.html#lets-recap",
+    "href": "references.html#lets-recap",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.18 Let’s Recap",
+    "text": "3.18 Let’s Recap\n직관체계, 추론체계가 있음 직관체계: 빠르고, 무의식적, 자동적, 감정적 추론체계: 느리고, 의식적, 노력한, 타당한(논리적인)"
+  },
+  {
+    "objectID": "references.html#review",
+    "href": "references.html#review",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.19 Review",
+    "text": "3.19 Review\n어떤 정보를 알았을 때, 이미 직관이 알고있음 > 우리의 직관이 추론을 이끈다"
+  },
+  {
+    "objectID": "references.html#mind-reading",
+    "href": "references.html#mind-reading",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.20 Mind Reading",
+    "text": "3.20 Mind Reading\n정치적 분열에 추론과 직관은 어떻게 작용하는지"
+  },
+  {
+    "objectID": "references.html#what-do-republicans-believe",
+    "href": "references.html#what-do-republicans-believe",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.21 What Do Republicans Believe?",
+    "text": "3.21 What Do Republicans Believe?\n\n공화당의 이슈\n\n\n아직도 있는 성 차별\n기후변화 문제\n무슬림 문제\n인종차별 문제\n총기소지 문제"
+  },
+  {
+    "objectID": "references.html#the-perception-gap",
+    "href": "references.html#the-perception-gap",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.22 The Perception Gap",
+    "text": "3.22 The Perception Gap\n실제 당사자의 신념과 내가 생각하는 신념은 다름 사이에 갭이 있음 - 잘못된 전제가 존재"
+  },
+  {
+    "objectID": "references.html#what-creates-the-perception-gap",
+    "href": "references.html#what-creates-the-perception-gap",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.23 What Creates the Perception Gap?",
+    "text": "3.23 What Creates the Perception Gap?\nReady to co 1. 같은 집단에서 같은 의견을 공유하면서 의견을 강화시킴. 2. 미묘한 관점보다는 극단적인 관점이 더 크게 작용함(자극적, 확신한 듯 한 모습)."
+  },
+  {
+    "objectID": "references.html#the-implications",
+    "href": "references.html#the-implications",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.24 The Implications",
+    "text": "3.24 The Implications\n대부분은 극단적인 사실에 지쳐있음."
+  },
+  {
+    "objectID": "references.html#where-do-our-differences-come-from",
+    "href": "references.html#where-do-our-differences-come-from",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.25 Where Do Our Differences Come From?",
+    "text": "3.25 Where Do Our Differences Come From?\n\n도덕기반이론\n\n여섯가지의 맛을 느끼는 혀와 같음 - 돌봄, 공평함, 자유, 충성, 권위, 순결"
+  },
+  {
+    "objectID": "references.html#the-origins-of-taste",
+    "href": "references.html#the-origins-of-taste",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.26 The Origins of Taste",
+    "text": "3.26 The Origins of Taste\n\n맛을 느끼는 체계는 같으나, 문화, 배경, 삶의 경험에 따라 각각 맛을 느끼는 정도가 다름, 차이가 있음."
+  },
+  {
+    "objectID": "references.html#the-six-taste-buds-of-morality",
+    "href": "references.html#the-six-taste-buds-of-morality",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.27 The Six “Taste Buds” of Morality",
+    "text": "3.27 The Six “Taste Buds” of Morality\n여섯가지는 다 있지만 입맛과 같이 개인의 따라 다 다름."
+  },
+  {
+    "objectID": "references.html#our-moral-intuitions",
+    "href": "references.html#our-moral-intuitions",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.28 Our Moral Intuitions",
+    "text": "3.28 Our Moral Intuitions\n직관은 코끼리, 직관이 걷어낸 것을 추론 과정에서 사용한다는 것을 알려줌. 세상을 있는 그대로 이해하는 것이 아니라 도덕직관을 통해 걸러내며 이해함. = 어떤 사실에 알지 못하면서 어떤 쟁점에 대해 강하게 느낌. ex) 하마스가 최근 학살한 사실에 대해, 하마스에 대해 잘 모르면서도 학살한 것에 대해 큰 거부감을 느낌. (약자에 대한 돌봄)"
+  },
+  {
+    "objectID": "references.html#uncovering-the-moral-foundations",
+    "href": "references.html#uncovering-the-moral-foundations",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.29 Uncovering the Moral Foundations",
+    "text": "3.29 Uncovering the Moral Foundations\n[돌봄] > 다른 사람을 돌봐주는 것, 해를 끼리는 것을 막는 것 - 공감, 친절함\n[공평함] > 공평함을 선호하고, 속이는 것을 싫어함. - 정의, 정직, 공평, 상호성\n[자유] > 자율성에 대한 욕구 - 결정을 내릴 자유\n[충성] > 내집단 충성\n[권위] > 합법적인 것에 대한 전통, 법, 존중\n[순결] > 순결하고 신성한 것을 오염시키는 것은 도덕적으로 그르다."
+  },
+  {
+    "objectID": "references.html#decoding-your-own-foundations",
+    "href": "references.html#decoding-your-own-foundations",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.30 Decoding Your Own Foundations",
+    "text": "3.30 Decoding Your Own Foundations\n\n부의 불평등과 승진은 공평함과 연결\n건강 비용은 돌봄과 공평함에 해당\n총기소지는 총기 사고에 따르면 돌봄, 소지할 자유는 자유에 해당함 > 같은 쟁점이라도 상황에 따라 다르게 볼 수 있음"
+  },
+  {
+    "objectID": "references.html#belief-updating-pt.-1",
+    "href": "references.html#belief-updating-pt.-1",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.31 Belief Updating, Pt. 1",
+    "text": "3.31 Belief Updating, Pt. 1\n우리는 사고 형식에서 밝고 어둡게 하는 스위치가 있는 것 뿐 아니라 밝기를 조절 할 수 있는 것이 있을거임"
+  },
+  {
+    "objectID": "references.html#changing-your-mind",
+    "href": "references.html#changing-your-mind",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.32 Changing Your Mind",
+    "text": "3.32 Changing Your Mind\n마음을 열어놓는 것이 중요함 강하게 무엇을 믿고있더라도 그것이 틀릴 수 있다는 것에 대해 알고있어야하고"
+  },
+  {
+    "objectID": "references.html#explorer-mindset",
+    "href": "references.html#explorer-mindset",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.33 Explorer Mindset",
+    "text": "3.33 Explorer Mindset\n탐험가는 열린 마음을 갖고있다"
+  },
+  {
+    "objectID": "references.html#setting-the-tone",
+    "href": "references.html#setting-the-tone",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.34 Setting the Tone",
+    "text": "3.34 Setting the Tone\n어떤 문제에 똑같이 싸우지 말고 넓은 마음을 가져라"
+  },
+  {
+    "objectID": "references.html#asking-questions",
+    "href": "references.html#asking-questions",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.35 Asking Questions",
+    "text": "3.35 Asking Questions\n호기심의 마음으로 접근하고 질문해라"
+  },
+  {
+    "objectID": "references.html#good-and-bad-questions",
+    "href": "references.html#good-and-bad-questions",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.36 Good and Bad Questions",
+    "text": "3.36 Good and Bad Questions\n공격하는 식(너는 잘 몰라~)으로 얘기하지 마라"
+  },
+  {
+    "objectID": "references.html#constructive-questions",
+    "href": "references.html#constructive-questions",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.37 Constructive Questions",
+    "text": "3.37 Constructive Questions\n\n진정으로 답을 알고 싶은 마음을 담아 질문해라\n열린 마음으로 열린 질문을 해라\n극단적인 질문 하지 말기\n신념에 대한 개인적인 이야기를 공유하도록 해라\n열린 마음으로 얘기를 하더라도 톤도 중요한 부분을 차지한다"
+  },
+  {
+    "objectID": "references.html#life-hacks",
+    "href": "references.html#life-hacks",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.38 Life Hacks",
+    "text": "3.38 Life Hacks\nWhy is this issue important to you? Can you tell me more? Can you share more about what you mean when you say Why do you think that is? Can you share something about your experience that may have led you to believe ? Is there anything about where you feel conflicted or pulled in two different directions? What is at stake for you or someone you know about this issue? Why do you think you care so deeply about this issue? Have you always felt that way?"
+  },
+  {
+    "objectID": "references.html#lesson-3-recap",
+    "href": "references.html#lesson-3-recap",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.39 Lesson 3 Recap",
+    "text": "3.39 Lesson 3 Recap\n\n마음가짐은 어려운 대화의 형성에 중요하다.\n승리를 버리는 것은 대화가 나누기보다는 연결되기 위한 중요한 단계\n탐험가적인 마음가짐을 가져라\n지적이고 겸손한 사람은 더 나은 삶을 살아갈 수 있다\n상대방의 마음을 알고싶을 때에는 진정한 호기심을 갖고 말해라"
+  },
+  {
+    "objectID": "references.html#your-takeaways",
+    "href": "references.html#your-takeaways",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.40 Your Takeaways",
+    "text": "3.40 Your Takeaways\nWhat’s one thing you want to remember from this lesson? - 신념에 대한 개인적인 이야기를 공유하도록 해라"
+  },
+  {
+    "objectID": "references.html#whats-one-way-you-might-use-this-takeaway-in-your-life",
+    "href": "references.html#whats-one-way-you-might-use-this-takeaway-in-your-life",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.41 What’s one way you might use this takeaway in your life?",
+    "text": "3.41 What’s one way you might use this takeaway in your life?\n\n어떤것에 대한 참 거짓을 따지기 전에 어떻게 그런 생각을 하게 되었는지를 먼저 알게 된다면 나 스스로를 설득 하거나 상대를 설득하는 데에 도움이 될 것이다."
+  },
+  {
+    "objectID": "references.html#lesson-4-storytelling",
+    "href": "references.html#lesson-4-storytelling",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.42 Lesson 4: Storytelling",
+    "text": "3.42 Lesson 4: Storytelling\n우리는 인류역사를 이야기를 통해 전해받고 여러가지 핵심적인 요소를 차지함"
+  },
+  {
+    "objectID": "references.html#the-power-of-stories",
+    "href": "references.html#the-power-of-stories",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.43 The Power of Stories",
+    "text": "3.43 The Power of Stories\n이야기는 마음을 움직이게함 이야기는 매우 강력한 도구 고통스러운 의견 충돌 대신 이용할 수 있는 강력한 것"
+  },
+  {
+    "objectID": "references.html#what-resonates",
+    "href": "references.html#what-resonates",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.44 What Resonates?",
+    "text": "3.44 What Resonates?\n\nAJ. 인간이기 때문에 사회적으로 보호 받아야한다\nAkram.\nKaren. 공동체적으로만 해결하면 되는 것이다.\nTed"
+  },
+  {
+    "objectID": "references.html#the-anatomy-of-a-story",
+    "href": "references.html#the-anatomy-of-a-story",
+    "title": "3  Lesson 1: The Divided Mind",
+    "section": "3.45 The Anatomy of a Story",
+    "text": "3.45 The Anatomy of a Story\n어떤 불일치 쟁점에 대해 목적이 되는 서로의 이해와 연결이 중요"
+  }
+]
