@@ -1,3 +1,20 @@
+# Quarto 열기
+
+Rstudio에서 Quarto document 새 파일을 불러온 후에 console 창에 getwd 입력 후 enter, Render > 파일명.html 클릭.
+
+R스튜디오 열어서 뉴 프로젝트 > 버전 컨트롤 > 복붙해서 붙여넣기 하고 프로젝트 만들기
+
+C:\data\2023solution>git config --global user.name "kimseodin@naver.com"
+
+C:\data\2023solution>git config --giobal user.name "kimseodin“
+
+C:\data\2023solution>git show
+
+Qmd 파일을 2023sol 파일 안으로 저장하면 git에 뜸.
+
+git에서 체크해서 commit 클릭 > 메모 하고 저장
+
+
 # Lesson 1: The Divided Mind
 
 https://learn.constructivedialogue.org
